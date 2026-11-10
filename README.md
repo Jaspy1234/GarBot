@@ -6,7 +6,7 @@ Today was the birth of GarBot. Me and Sabrina came up with the idea tonight, tak
 - Tank tracks for movement
 - Cute screen or design for the face
 
-#Components
+# Components
 - ESP32
 - DC motors (x4)
 - AA batteries (x4)
